@@ -14,5 +14,9 @@ I am from Hyderabad, India. I did my bachelor's with the specialization in Mecha
 My plan after graduation is to do a job related to Data. Big data, Data Analytics are the areas that am interested in.
 
 ## Links
-- [linkedin](https://www.linkedin.com/in/pooja-gundu-b71000107/)
+- [LinkedIn](https://www.linkedin.com/in/pooja-gundu-b71000107/)
 - [GitHub](https://github.com/GUNDUPOOJA)
+
+## Personal Profile
+- [image]()
+
