@@ -4,7 +4,7 @@ This is my big-data-developer repo.
 # Gundu Pooja
 
 ## Current 
-I am in my final semester of the Applied Computer Science graduate Program at Northwest Missouri State University.
+I am in the final semester of Applied Computer Science Program at Northwest Missouri State University.
 This semester, I am studying the subjects Big Data, Machine Learning, Graduate directed Project 2.
 
 ## Background
@@ -18,6 +18,6 @@ My plan after graduation is to do a job related to Data. Big data, Data Analytic
 - [GitHub](https://github.com/GUNDUPOOJA)
 
 ## Personal Profile
-![ ](myimage.jpg)
+![ ](https://avatars2.githubusercontent.com/u/60015515?s=400&u=a691ffb3d3f0d5b6668835340aa29ca8599d7667&v=4)
 
 
