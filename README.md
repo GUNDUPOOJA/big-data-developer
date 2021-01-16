@@ -18,5 +18,5 @@ My plan after graduation is to do a job related to Data. Big data, Data Analytic
 - [GitHub](https://github.com/GUNDUPOOJA)
 
 ## Personal Profile
-- [image]()
+- [image](myimage.jpg)
 
