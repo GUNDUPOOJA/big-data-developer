@@ -17,7 +17,6 @@ My plan after graduation is to do a job related to Data. Big data, Data Analytic
 - [LinkedIn](https://www.linkedin.com/in/pooja-gundu-b71000107/)
 - [GitHub](https://github.com/GUNDUPOOJA)
 
-## Personal Profile
 ![ ](https://avatars2.githubusercontent.com/u/60015515?s=400&u=a691ffb3d3f0d5b6668835340aa29ca8599d7667&v=4)
 
 
